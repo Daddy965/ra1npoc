@@ -35,7 +35,7 @@ A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadO
 ```
 cd src/
 make all
-cd ../pongoOS/scripts
+cd /pongoOS/scripts
 make ra1npoc
 ```
 
